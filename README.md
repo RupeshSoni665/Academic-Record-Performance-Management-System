@@ -67,7 +67,7 @@ This project addresses these issues by providing a **structured, normalized, and
 ---
 
 ## Project Structure
-
+```bash
 AcademicManagementSystem/
 │
 ├── main.py # Application entry point and menu handling
