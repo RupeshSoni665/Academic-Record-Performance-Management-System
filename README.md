@@ -76,10 +76,9 @@ AcademicManagementSystem/
 ├── students.db # SQLite database (auto-generated)
 ├── activity.log # Optional activity logging
 └── README.md
-
+```
 
 ---
-```md
 ## Database Design
 
 ### students
