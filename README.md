@@ -79,7 +79,7 @@ AcademicManagementSystem/
 
 
 ---
-
+```md
 ## Database Design
 
 ### students
