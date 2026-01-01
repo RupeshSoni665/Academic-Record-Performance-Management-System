@@ -144,8 +144,7 @@ CGPA = Σ(all semesters grade_point × credits) / Σ(all semesters credits)
 ### Steps
 1. Clone the repository
 2. Navigate to the project directory
-3. (Optional) Delete `students.db` if re-running after schema changes
-4. Run the application:
+3. Run the application:
 python main.py
 ---
 
